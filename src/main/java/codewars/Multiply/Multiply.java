@@ -1,4 +1,4 @@
-package codewars.DescendingOrder.Multiply;
+package codewars.Multiply;
 
 /**
  * @author: lijunlong

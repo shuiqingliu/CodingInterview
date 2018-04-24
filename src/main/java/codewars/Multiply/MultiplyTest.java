@@ -1,4 +1,4 @@
-package codewars.DescendingOrder.Multiply;
+package codewars.Multiply;
 
 import org.junit.Test;
 
