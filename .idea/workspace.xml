@@ -4,8 +4,11 @@
     <list default="true" id="1d07d1a8-f503-4634-8053-f7df0c4bfadc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/Multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codewars/Multiply/Multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/MultiplyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/MultiplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codewars/Multiply/MultiplyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewars/DescendingOrder/Multiply/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codewars/Multiply/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -409,7 +412,7 @@
       <updated>1519725332710</updated>
       <workItem from="1519725337249" duration="19646000" />
       <workItem from="1519808249148" duration="4000" />
-      <workItem from="1524214096707" duration="16025000" />
+      <workItem from="1524214096707" duration="16603000" />
     </task>
     <servers />
   </component>
@@ -428,7 +431,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35675000" />
+    <option name="totallyTimeSpent" value="36253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
