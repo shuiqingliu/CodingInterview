@@ -1,4 +1,4 @@
-package com.company;
+package GetOffer;
 
 import java.util.Iterator;
 

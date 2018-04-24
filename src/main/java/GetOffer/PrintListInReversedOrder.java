@@ -1,4 +1,4 @@
-package com.company;
+package GetOffer;
 
 /**
  * Created by qingliu on 2/28/18.

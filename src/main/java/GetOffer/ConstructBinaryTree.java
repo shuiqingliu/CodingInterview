@@ -1,4 +1,4 @@
-package com.company;
+package GetOffer;
 
 /**
  * Created by qingliu on 2/28/18.
@@ -21,7 +21,6 @@ public class ConstructBinaryTree {
         int rootValue = preOrder[0];  //前序遍历的第一个为根节点
         BinaryTreeNode rootNode = new BinaryTreeNode();  //构造根节点
         rootNode.value = rootValue;
-
-
+        return rootNode;
     }
 }
