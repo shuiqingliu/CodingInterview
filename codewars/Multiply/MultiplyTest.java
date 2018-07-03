@@ -1,4 +1,4 @@
-package codewars.Multiply;
+import Multiply;
 
 import org.junit.Test;
 

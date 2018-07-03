@@ -1,5 +1,3 @@
-package codewars.Multiply;
-
 /**
  * @author: lijunlong
  * @CreateDate: 2018/4/24
