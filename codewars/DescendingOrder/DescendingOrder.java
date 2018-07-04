@@ -1,5 +1,3 @@
-package codewars.DescendingOrder;
-
 /**
  * @author: lijunlong
  * @CreateDate: 2018/4/20

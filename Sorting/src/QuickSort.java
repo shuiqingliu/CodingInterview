@@ -1,4 +1,4 @@
-package Sorting;
+package src;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -56,8 +56,8 @@ public class QuickSort {
     }
 
     public static void main(String[] args){
-        int[] source = {4,1,2,5,3,7,6};
-        int[] newArray = quicksort(source,0,6);
+        int[] source = { 4,2,5,7,8,3,6,1};
+        int[] newArray = quicksort(source,0,7);
         System.out.println(Arrays.toString(newArray));
     }
 }

@@ -1,9 +1,5 @@
-import Multiply;
-
 import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
-
+import org.junit.Assert;
 /**
  * @author: lijunlong
  * @CreateDate: 2018/4/24
@@ -16,7 +12,7 @@ public class MultiplyTest {
         Double b = Math.random();
         Double c = Math.random();
         String message = String.format("(%g * %g) * %g == %g * (%g * %g)", a, b, c, a, b, c);
-        assertEquals(message,
+        Assert.assertEquals(message,
                 Multiply.multiply(Multiply.multiply(a, b), c),
                 Multiply.multiply(a, Multiply.multiply(b, c)),
                 1E-14);
