@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d07d1a8-f503-4634-8053-f7df0c4bfadc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/QuickSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/src/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/Multiply/MultiplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Multiply/MultiplyTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1d07d1a8-f503-4634-8053-f7df0c4bfadc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,16 +31,16 @@
         <entry file="file://$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting/QuickSort.java">
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sorting/src/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="1344">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +49,10 @@
         </entry>
       </file>
       <file leaf-file-name="QuickSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting/QuickSortTest.java">
+        <entry file="file://$PROJECT_DIR$/Sorting/src/QuickSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="347">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrderTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -101,16 +91,16 @@
         <entry file="file://$PROJECT_DIR$/GetOffer/ConstructBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuplicationInArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DuplicationInArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GetOffer/DuplicationInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            <state relative-caret-position="-611">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -185,6 +175,7 @@
         <option value="$PROJECT_DIR$/Sorting/QuickSortTest.java" />
         <option value="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrder.java" />
         <option value="$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrderTest.java" />
+        <option value="$PROJECT_DIR$/Sorting/src/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -249,22 +240,6 @@
               <item name="CodingInterview" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingInterview" type="462c0819:PsiDirectoryNode" />
               <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,7 +368,7 @@
       <workItem from="1519725337249" duration="19646000" />
       <workItem from="1519808249148" duration="4000" />
       <workItem from="1524214096707" duration="20144000" />
-      <workItem from="1530599701263" duration="14966000" />
+      <workItem from="1530599701263" duration="15210000" />
     </task>
     <servers />
   </component>
@@ -418,7 +393,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54760000" />
+    <option name="totallyTimeSpent" value="55004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -432,7 +407,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3299356" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26634958" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34363854" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3299356" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -817,26 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/QuickSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codewars/Multiply/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -857,14 +812,14 @@
     <entry file="file://$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars/DescendingOrder/DescendingOrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -880,14 +835,34 @@
     <entry file="file://$PROJECT_DIR$/GetOffer/ConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GetOffer/DuplicationInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="-611">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/src/QuickSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -943,7 +918,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GetOffer</last-edited>
+          <last-edited>Stack</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
