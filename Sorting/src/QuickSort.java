@@ -45,6 +45,9 @@ public class QuickSort {
 
     /**/
     public static int[] quicksort(int[] sourceArray,int left,int right){
+        if (sourceArray == null){
+            return null;
+        }
         if (left >= right){
             return null;
         }
