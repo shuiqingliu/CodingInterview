@@ -7,8 +7,8 @@ import java.util.Arrays;
  */
 public class QuickSortNew {
     public static void main(String[] args){
-        int[] a = { 4,2,5,7,8,3,6,1};
-        sort(a,0,7);
+        int[] a = { 4, 1, 9, 7, 8, 3, 6, 5};
+        quickSort(a,0,7);
         System.out.println(Arrays.toString(a));
     }
 
@@ -34,32 +34,5 @@ public class QuickSortNew {
         }
         quickSort(num, left, i - 1);
         quickSort(num, i + 1, right);
-    }
-
-
-
-    public static void sort(int a[], int low, int high){
-        if (a == null){
-            return;
-        }
-        if (low >= high){
-            return;
-        }
-        int i = low;
-        int j = high;
-        int key = a[low];
-        while(i < j){
-            while (i < j && a[j] >= key ){
-                j--;
-            }
-            a[i] = a[j];
-            while (i < j && a[i] <= key){
-                i++;
-            }
-            a[j] = a[i];
-            a[i] = key;
-        }
-        sort(a,low,i-1);
-        sort(a,i+1,high);
     }
 }
