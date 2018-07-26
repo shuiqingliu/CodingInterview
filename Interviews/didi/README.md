@@ -1,6 +1,6 @@
 # didi java intern interview
 主要问了 JAVA 的基础 ，Spring AOP  IOC ,Spring 框架的源码和 MySQL 的事务以及事务隔离级别。在此做个记录防止遗忘。
-
+[TOC]
 ### 1. String,StringBuffer 和 StringBuilder 区别
 * a) String 是不可变的`对象`，他一旦被创建就不能改变。已经创建的String 对象保存在`静态String池(Constant String Pool)`当中,JAVA 中每一个不可变的对象都是线程安全的，String 不能同时应用于两个线程。
 * b)StringBuffer  是可以改变对象值的所以他是可变的，通过 StringBuffer 创建对象后存储在堆，StringBuffer 和 StringBuilder 有同样的方法但是 StringBuffer 中的每一个方法都是 synchronized 所以 StringBuffer 是线程安全的。由于 synchronized 锁的机制每个方法一次只能被一个线程访问。但是线程安全也有缺点，这就影响了 StringBuffer 的性能，所以当调用同一个方法是 StringBuilder 要快与 StringBuffer
@@ -10,6 +10,7 @@
 
 * 内存结构
   ![jvm](../img/JVM.png)
+  
 * a) **程序计数器**（PC, Program Counter Register) : 在 JVM 中每个线程都有自己的 PC,在任何时间点每个线程都只有一个方法执行也就是所谓的当前方法，如果这个方法不是本地方法，程序计数器会存储当前线程正在执行的 JAVA 方法的 JVM 指令地址，否则 PC 为未定义值
 * b)**JAVA 虚拟机栈**（JVM Stack）：每个线程有一个私有的 JVM 栈，跟线程同时创建，用来存储一个个栈桢（Stack frame). JVM 对栈的操作只有对栈桢的 pop 和 push, JVM 栈的大小可以是固定的也可以设置成随计算需求动态扩充或收缩。
 > 如果是栈大小是固定大小的那么当线程所需要的栈空间大小大于允许的栈空间大小时候则抛出 `StackOverflowError`，如果栈空间是动态扩展的那么当内存不能满足扩展的需要的时候或者不足以初始化一个线程的栈的时候就会抛出 `OutOfMemoryError`
@@ -41,6 +42,7 @@ GC 发生时候需要明确的三个问题：
   分为标记和清除两个阶段，标记出需要回收的对象，在标记完后统一回收标记对象
   * 缺点：标记，清除效率低，会产生大量不连续的空间碎片导致分配较大对象的时候无法找到连续的内存而触发 GC
   ![mark-remove](../img/mark-sweep.png)
+  
   由上图可以看出在采用 Mark-Sweep 算法后出现了大量的碎片区域。
 2. 复制算法
    该算法将内存分为两块，优先使用其中一块当其中一块使用完了就会将存活的对象复制到另外一块上面，然后将使用过的一次清理掉。
