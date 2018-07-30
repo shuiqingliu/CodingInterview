@@ -96,6 +96,12 @@ GC 发生时候需要明确的三个问题：
 	
 ### 4. Spring IOC、AOP实现原理 
 
+#### 4.1 Spring IOC
+
+IOC 可谓是Spring 的基石，IOC（inversion of control）又称控制反转，很难理解但是用官方的解释 `IoC is also known as dependency injection(DI)` 这就很好理解了，IoC 就是利用依赖注入技术来解决复杂系统对象耦合度太高问题。在 Spring 中对象可以定义其依赖关系，IOC 容器在创建 Bean 的时候注入这些依赖项。Spring 中 Bean 可以通过 XML 来编写 Bean 的定义以及 Bean 与 Bean 之间的关系， Bean 的创建交给 Spring 自动完成。
+
+
+
 
 
 ### 5. Spring 如何定位到 Controller
