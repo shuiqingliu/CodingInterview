@@ -21,7 +21,7 @@ public class ReverseLinked {
         ListNode testNode = new ListNode(1);
         testNode.next = new ListNode(2);
         testNode.next.next = new ListNode(3);
-        ListNode result = reverseWithHeadInsert(testNode);
+        ListNode result = reverseWithRecursion(testNode);
         while (result != null){
             System.out.println(result.val);
             result = result.next;
@@ -57,4 +57,33 @@ public class ReverseLinked {
         return tempHead;
     }
 
+    public static ListNode reverseWithCircle(ListNode head){
+        //从第二个元素开始反转将元素依次插入到 head 之后，最后将 head 移到末尾
+        ListNode p = head.next;
+        ListNode q = null;
+        while (p.next != null){
+            q = p.next;
+            p.next = q.next;
+            q.next = head.next;
+            head.next = q;
+        }
+
+        p.next = head;
+        head = p.next.next;
+        p.next.next = null;
+        return head;
+
+    }
+
+    public static ListNode reverseWithRecursion(ListNode head){
+        //递归实现反转
+        if (head == null || head.next == null){
+            return head;
+        }else {
+            ListNode newNode = reverseWithRecursion(head.next);
+            head.next.next = head;
+            head.next = null;
+            return newNode;
+        }
+    }
 }
