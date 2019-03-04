@@ -10,7 +10,7 @@ while there are **140** problems still locked.
 
 | ID | Title | Source Code | Article | Difficulty | solved |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com//blob/master/solutions/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|[ ]|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com//blob/master/solutions/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|:white_check_mark:|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)||[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
