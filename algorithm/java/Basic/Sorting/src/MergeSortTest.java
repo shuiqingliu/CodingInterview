@@ -1,4 +1,3 @@
-package src;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
@@ -12,7 +11,7 @@ public class MergeSortTest {
     public void testRight(){
         int[] a = {119,160,390,947,604,251};
         int[] b = {119,160,251,390,604,947};
-        MergeSort.mergeSort(a,0,a.length - 1);
+        src.MergeSort.mergeSort(a,0,a.length - 1);
         assertArrayEquals(a,b);
     }
 
@@ -20,14 +19,14 @@ public class MergeSortTest {
     public void testIndexError(){
         int[] a = {119,160,390,947,604,251};
         int[] b = {119,160,251,390,604,947};
-        MergeSort.mergeSort(a,0,-1);
+        src.MergeSort.mergeSort(a,0,-1);
         assertNotEquals(a,b);
     }
 
     @Test
     public void testArrayNull(){
         int[] a = null;
-        MergeSort.mergeSort(a,0,1);
+        src.MergeSort.mergeSort(a,0,1);
         assertNull(a);
     }
 }
