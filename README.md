@@ -6,17 +6,11 @@ Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 I have solved **11   /   953** problems
 while there are **140** problems still locked.
 
-If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
-
-If you have any question, please give me an [issue](https://github.com//issues).
-
-If you are loving solving problems in leetcode, please contact me to enjoy it together!
-
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
 
-| # | Title | Source Code | Article | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com//blob/master/solutions/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
+| ID | Title | Source Code | Article | Difficulty | solved |
+|:---:|:---:|:---:|:---:|:---:|:---|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com//blob/master/solutions/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|[]|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)||[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
