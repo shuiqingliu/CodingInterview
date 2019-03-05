@@ -10,27 +10,27 @@ while there are **140** problems still locked.
 
 | ID | Title | Source Code | Article | Difficulty | solved |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com//blob/master/solutions/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|:white_check_mark:|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|:white_check_mark:|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)||[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com//blob/master/solutions/007-reverse-integer/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/007-reverse-integer/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|:white_check_mark:|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com//blob/master/solutions/009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|:white_check_mark:|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
-|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com//blob/master/solutions/013-roman-to-integer/roman-to-integer.java)||Easy|
-|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com//blob/master/solutions/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
+|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/013-roman-to-integer/roman-to-integer.java)||Easy|:white_check_mark:|
+|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|:white_check_mark:|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
-|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Java](https://github.com//blob/master/solutions/020-valid-parentheses/valid-parentheses.java)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
-|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Java](https://github.com//blob/master/solutions/021-merge-two-sorted-lists/merge-two-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
+|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/020-valid-parentheses/valid-parentheses.java)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|:white_check_mark:|
+|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/021-merge-two-sorted-lists/merge-two-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|:white_check_mark:|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
@@ -103,7 +103,7 @@ while there are **140** problems still locked.
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)||[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
-|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Java](https://github.com//blob/master/solutions/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
+|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|:white_check_mark:|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
@@ -111,7 +111,7 @@ while there are **140** problems still locked.
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|||Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
-|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Java](https://github.com//blob/master/solutions/102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java)||Medium|
+|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java)||Medium|:white_check_mark:|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
@@ -153,8 +153,8 @@ while there are **140** problems still locked.
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Java](https://github.com//blob/master/solutions/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Java](https://github.com//blob/master/solutions/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|:white_check_mark:|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Java](https://github.com/shuiqingliu/CodingInterview/tree/master/algorithm/java/LeetCode/src/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|:white_check_mark:|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
