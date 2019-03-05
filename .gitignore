@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+config.cfg
+
 # Log file
 *.log
 
