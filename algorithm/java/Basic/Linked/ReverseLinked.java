@@ -13,6 +13,14 @@
  * description：实现链表反转
  */
 
+class ListNode{
+    int val;
+    ListNode next;
+    ListNode(int x){
+        val = x;
+        next = null;
+    }
+}
 
 public class ReverseLinked {
 
